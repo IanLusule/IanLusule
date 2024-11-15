@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+?;Let's+get+better+together+?)](https://git.io/typing-svg)
 
-
 ## 👨🏻‍💻 About Me:
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
-
-
+<img  src="./g1.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://lusule.com/)**
 
