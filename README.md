@@ -4,4 +4,4 @@
 - 👀 I’m interested in $Deep$ $Learning$/ $Neural$ $Networks$
 - 🌱 I’m currently learning building an $AST$ from $Assembly$ $Landguage$
 - 💞️ I’m looking to collaborate on $Github$
-- 📫 How to reach me - through mail => **amlusule@gmail.com** 
+- 📫 How to reach me - through mail => **Naaah** 
