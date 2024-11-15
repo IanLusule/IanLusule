@@ -12,7 +12,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 ~~Ask me about anything, Except Maths~~ :sweat_smile:
 
 - ⚡ I waste most of my time working in front of a computer
 
