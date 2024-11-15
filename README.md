@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./g2.gif" height="290px" align="right" />
+<img  src="./g.gif" height="280px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://lusule.com/)**
 
