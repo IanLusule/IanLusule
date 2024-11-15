@@ -3,7 +3,10 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+
+
 
 - 🙋‍♂️ All about me is at **[My Website](https://lusule.com/)**
 
